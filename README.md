@@ -82,8 +82,8 @@ Use the **Authorize** button to test secured endpoints.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/laravel-task-api.git
-cd laravel-task-api
+git clone https://github.com/gabykant/laravel-tasks-management.git
+cd laravel-task-management
 
 ### 2️⃣ Install dependencies
 composer install
